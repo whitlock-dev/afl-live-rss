@@ -1,0 +1,8 @@
+{
+  "name": "afl-live-rss",
+  "version": "1.0.0",
+  "description": "AFL Live RSS Feed Generator",
+  "scripts": {
+    "generate": "node generate.js"
+  }
+}
