@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>AFL Live Scores</title>
+<link>https://www.afl.com.au/</link>
+<description>Live AFL scores from Squiggle API</description>
+
+    <item>
+      <title>Sydney 132 vs Carlton 69</title>
+      <description>Status: Scheduled | Round:  | Date: 2026-03-05 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38494</guid>
+    </item>
+    <item>
+      <title>Gold Coast 125 vs Geelong 69</title>
+      <description>Status: Scheduled | Round:  | Date: 2026-03-06 20:05:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38495</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 122 vs Hawthorn 95</title>
+      <description>Status: Scheduled | Round:  | Date: 2026-03-07 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38496</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 106 vs Western Bulldogs 111</title>
+      <description>Status: Scheduled | Round:  | Date: 2026-03-07 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38497</guid>
+    </item>
+    <item>
+      <title>St Kilda 66 vs Collingwood 78</title>
+      <description>Status: Scheduled | Round:  | Date: 2026-03-08 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38498</guid>
+    </item>
+    <item>
+      <title>Carlton 75 vs Richmond 71</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-12 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38499</guid>
+    </item>
+    <item>
+      <title>Essendon 83 vs Hawthorn 145</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-13 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38500</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 134 vs Greater Western Sydney 53</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-14 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38501</guid>
+    </item>
+    <item>
+      <title>Geelong 110 vs Fremantle 100</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-14 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38502</guid>
+    </item>
+    <item>
+      <title>Sydney 104 vs Brisbane Lions 60</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-14 19:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38503</guid>
+    </item>
+    <item>
+      <title>Collingwood 79 vs Adelaide 93</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-14 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38504</guid>
+    </item>
+    <item>
+      <title>North Melbourne 113 vs Port Adelaide 67</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-15 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38505</guid>
+    </item>
+    <item>
+      <title>Melbourne 120 vs St Kilda 107</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-15 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38506</guid>
+    </item>
+    <item>
+      <title>Gold Coast 131 vs West Coast 72</title>
+      <description>Status: Scheduled | Round: 1 | Date: 2026-03-15 18:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38507</guid>
+    </item>
+    <item>
+      <title>Hawthorn 99 vs Sydney 82</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-19 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38508</guid>
+    </item>
+    <item>
+      <title>Adelaide 88 vs Western Bulldogs 94</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-20 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38509</guid>
+    </item>
+    <item>
+      <title>Richmond 60 vs Gold Coast 128</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-21 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38510</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 74 vs St Kilda 78</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-21 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38511</guid>
+    </item>
+    <item>
+      <title>Fremantle 118 vs Melbourne 70</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-21 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38512</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 133 vs Essendon 70</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-22 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38513</guid>
+    </item>
+    <item>
+      <title>West Coast 111 vs North Melbourne 94</title>
+      <description>Status: Scheduled | Round: 2 | Date: 2026-03-22 18:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38514</guid>
+    </item>
+    <item>
+      <title>Geelong 68 vs Adelaide 60</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-26 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38515</guid>
+    </item>
+    <item>
+      <title>Collingwood 87 vs Greater Western Sydney 54</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-27 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38516</guid>
+    </item>
+    <item>
+      <title>St Kilda 80 vs Brisbane Lions 113</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-28 12:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38517</guid>
+    </item>
+    <item>
+      <title>Fremantle 103 vs Richmond 43</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-28 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38518</guid>
+    </item>
+    <item>
+      <title>Essendon 69 vs North Melbourne 81</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-28 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38519</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 90 vs West Coast 92</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-29 12:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38520</guid>
+    </item>
+    <item>
+      <title>Carlton 77 vs Melbourne 100</title>
+      <description>Status: Scheduled | Round: 3 | Date: 2026-03-29 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38521</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 119 vs Collingwood 65</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-02 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38522</guid>
+    </item>
+    <item>
+      <title>North Melbourne 96 vs Carlton 86</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-03 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38523</guid>
+    </item>
+    <item>
+      <title>Adelaide 76 vs Fremantle 78</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-03 19:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38524</guid>
+    </item>
+    <item>
+      <title>Richmond 48 vs Port Adelaide 90</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-04 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38525</guid>
+    </item>
+    <item>
+      <title>West Coast 35 vs Sydney 163</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-04 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38526</guid>
+    </item>
+    <item>
+      <title>Melbourne 109 vs Gold Coast 89</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-05 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38527</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 99 vs Essendon 65</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-05 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38528</guid>
+    </item>
+    <item>
+      <title>Hawthorn 92 vs Geelong 91</title>
+      <description>Status: Scheduled | Round: 4 | Date: 2026-04-06 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38529</guid>
+    </item>
+    <item>
+      <title>Adelaide 114 vs Carlton 86</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-09 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38530</guid>
+    </item>
+    <item>
+      <title>Collingwood 39 vs Fremantle 45</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-10 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38531</guid>
+    </item>
+    <item>
+      <title>North Melbourne 66 vs Brisbane Lions 92</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-11 12:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38532</guid>
+    </item>
+    <item>
+      <title>Essendon 113 vs Melbourne 68</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-11 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38533</guid>
+    </item>
+    <item>
+      <title>Sydney 100 vs Gold Coast 68</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-11 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38534</guid>
+    </item>
+    <item>
+      <title>Hawthorn 104 vs Western Bulldogs 64</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-11 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38535</guid>
+    </item>
+    <item>
+      <title>Geelong 122 vs West Coast 76</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-12 12:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38536</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 131 vs Richmond 75</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-12 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38537</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 67 vs St Kilda 81</title>
+      <description>Status: Scheduled | Round: 5 | Date: 2026-04-12 19:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38538</guid>
+    </item>
+    <item>
+      <title>Carlton 83 vs Collingwood 88</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-16 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38539</guid>
+    </item>
+    <item>
+      <title>Geelong 131 vs Western Bulldogs 56</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-17 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38540</guid>
+    </item>
+    <item>
+      <title>Sydney 107 vs Greater Western Sydney 66</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-17 19:50:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38541</guid>
+    </item>
+    <item>
+      <title>Gold Coast 119 vs Essendon 110</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-18 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38542</guid>
+    </item>
+    <item>
+      <title>Hawthorn 89 vs Port Adelaide 86</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-18 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38543</guid>
+    </item>
+    <item>
+      <title>Adelaide 103 vs St Kilda 102</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-18 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38544</guid>
+    </item>
+    <item>
+      <title>North Melbourne 130 vs Richmond 55</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-19 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38545</guid>
+    </item>
+    <item>
+      <title>Melbourne 104 vs Brisbane Lions 102</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-19 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38546</guid>
+    </item>
+    <item>
+      <title>West Coast 41 vs Fremantle 97</title>
+      <description>Status: Scheduled | Round: 6 | Date: 2026-04-19 17:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38547</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 60 vs Sydney 126</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-23 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38548</guid>
+    </item>
+    <item>
+      <title>Richmond 72 vs Melbourne 126</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-24 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38549</guid>
+    </item>
+    <item>
+      <title>Hawthorn 112 vs Gold Coast 63</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-25 12:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38550</guid>
+    </item>
+    <item>
+      <title>Essendon 60 vs Collingwood 137</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-25 15:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38551</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 95 vs Geelong 65</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-25 18:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38552</guid>
+    </item>
+    <item>
+      <title>Fremantle 103 vs Carlton 89</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-25 20:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38553</guid>
+    </item>
+    <item>
+      <title>St Kilda 143 vs West Coast 42</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-26 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38554</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 127 vs Adelaide 75</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-26 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38555</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 105 vs North Melbourne 98</title>
+      <description>Status: Scheduled | Round: 7 | Date: 2026-04-26 16:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38556</guid>
+    </item>
+    <item>
+      <title>Collingwood 93 vs Hawthorn 93</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-04-30 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38557</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 102 vs Fremantle 114</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-01 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38558</guid>
+    </item>
+    <item>
+      <title>Adelaide 76 vs Port Adelaide 75</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-01 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38559</guid>
+    </item>
+    <item>
+      <title>Essendon 79 vs Brisbane Lions 143</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-02 12:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38560</guid>
+    </item>
+    <item>
+      <title>West Coast 88 vs Richmond 99</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-02 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38561</guid>
+    </item>
+    <item>
+      <title>Geelong 135 vs North Melbourne 86</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-02 16:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38562</guid>
+    </item>
+    <item>
+      <title>Carlton 69 vs St Kilda 108</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-02 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38563</guid>
+    </item>
+    <item>
+      <title>Sydney 131 vs Melbourne 114</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-03 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38564</guid>
+    </item>
+    <item>
+      <title>Gold Coast 83 vs Greater Western Sydney 63</title>
+      <description>Status: Scheduled | Round: 8 | Date: 2026-05-03 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38565</guid>
+    </item>
+    <item>
+      <title>Fremantle 88 vs Hawthorn 73</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-07 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38566</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 100 vs Carlton 89</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-08 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38567</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 72 vs Western Bulldogs 74</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-08 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38568</guid>
+    </item>
+    <item>
+      <title>North Melbourne 97 vs Sydney 105</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-09 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38569</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 103 vs Essendon 89</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-09 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38570</guid>
+    </item>
+    <item>
+      <title>Gold Coast 89 vs St Kilda 60</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-09 19:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38571</guid>
+    </item>
+    <item>
+      <title>Geelong 122 vs Collingwood 68</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-09 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38572</guid>
+    </item>
+    <item>
+      <title>Melbourne 99 vs West Coast 67</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-10 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38573</guid>
+    </item>
+    <item>
+      <title>Richmond 61 vs Adelaide 98</title>
+      <description>Status: Scheduled | Round: 9 | Date: 2026-05-10 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38574</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 76 vs Geelong 117</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-14 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38575</guid>
+    </item>
+    <item>
+      <title>Sydney 81 vs Collingwood 75</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-15 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38576</guid>
+    </item>
+    <item>
+      <title>Gold Coast 98 vs Port Adelaide 73</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-15 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38577</guid>
+    </item>
+    <item>
+      <title>Adelaide 133 vs North Melbourne 65</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-16 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38578</guid>
+    </item>
+    <item>
+      <title>Melbourne 120 vs Hawthorn 81</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-16 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38579</guid>
+    </item>
+    <item>
+      <title>Carlton 74 vs Western Bulldogs 62</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-16 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38580</guid>
+    </item>
+    <item>
+      <title>Essendon 61 vs Fremantle 104</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-17 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38581</guid>
+    </item>
+    <item>
+      <title>St Kilda 109 vs Richmond 73</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-17 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38582</guid>
+    </item>
+    <item>
+      <title>West Coast 88 vs Greater Western Sydney 71</title>
+      <description>Status: Scheduled | Round: 10 | Date: 2026-05-17 18:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38583</guid>
+    </item>
+    <item>
+      <title>Hawthorn 75 vs Adelaide 66</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-21 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38584</guid>
+    </item>
+    <item>
+      <title>Richmond 74 vs Essendon 56</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-22 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38585</guid>
+    </item>
+    <item>
+      <title>Fremantle 104 vs St Kilda 74</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-22 20:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38586</guid>
+    </item>
+    <item>
+      <title>North Melbourne 111 vs Gold Coast 105</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-23 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38587</guid>
+    </item>
+    <item>
+      <title>Geelong 107 vs Sydney 80</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-23 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38588</guid>
+    </item>
+    <item>
+      <title>Collingwood 92 vs West Coast 82</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-23 16:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38589</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 58 vs Carlton 92</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-23 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38590</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 166 vs Brisbane Lions 88</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-24 12:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38591</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 93 vs Melbourne 90</title>
+      <description>Status: Scheduled | Round: 11 | Date: 2026-05-24 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38592</guid>
+    </item>
+    <item>
+      <title>St Kilda 67 vs Hawthorn 119</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-28 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38593</guid>
+    </item>
+    <item>
+      <title>Carlton 88 vs Geelong 84</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-29 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38594</guid>
+    </item>
+    <item>
+      <title>Sydney 170 vs Richmond 56</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-30 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38595</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 78 vs Fremantle 103</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-30 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38596</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 97 vs Collingwood 93</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-30 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38597</guid>
+    </item>
+    <item>
+      <title>Melbourne 70 vs Greater Western Sydney 119</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-31 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38598</guid>
+    </item>
+    <item>
+      <title>West Coast 85 vs Essendon 55</title>
+      <description>Status: Scheduled | Round: 12 | Date: 2026-05-31 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38599</guid>
+    </item>
+    <item>
+      <title>Adelaide 75 vs Geelong 74</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-04 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38600</guid>
+    </item>
+    <item>
+      <title>Hawthorn 71 vs Western Bulldogs 77</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-05 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38601</guid>
+    </item>
+    <item>
+      <title>North Melbourne 31 vs Fremantle 155</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-06 14:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38602</guid>
+    </item>
+    <item>
+      <title>Gold Coast 75 vs Brisbane Lions 106</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-06 17:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38603</guid>
+    </item>
+    <item>
+      <title>West Coast 71 vs Port Adelaide 77</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-06 20:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38604</guid>
+    </item>
+    <item>
+      <title>Sydney 104 vs St Kilda 102</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-07 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38605</guid>
+    </item>
+    <item>
+      <title>Essendon 67 vs Carlton 72</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-07 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38606</guid>
+    </item>
+    <item>
+      <title>Collingwood 75 vs Melbourne 83</title>
+      <description>Status: Scheduled | Round: 13 | Date: 2026-06-08 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38607</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 64 vs Adelaide 121</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-11 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38608</guid>
+    </item>
+    <item>
+      <title>Geelong 105 vs Gold Coast 60</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-12 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38609</guid>
+    </item>
+    <item>
+      <title>Melbourne 95 vs Essendon 50</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-13 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38610</guid>
+    </item>
+    <item>
+      <title>North Melbourne 74 vs West Coast 73</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-13 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38611</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 90 vs Sydney 93</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-13 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38612</guid>
+    </item>
+    <item>
+      <title>Richmond 80 vs Brisbane Lions 115</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-14 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38613</guid>
+    </item>
+    <item>
+      <title>St Kilda 96 vs Greater Western Sydney 88</title>
+      <description>Status: Scheduled | Round: 14 | Date: 2026-06-14 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38614</guid>
+    </item>
+    <item>
+      <title>Fremantle 99 vs Geelong 90</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-18 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38615</guid>
+    </item>
+    <item>
+      <title>Gold Coast 97 vs Hawthorn 113</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-19 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38616</guid>
+    </item>
+    <item>
+      <title>Adelaide 79 vs Melbourne 62</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-20 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38617</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 65 vs Carlton 88</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-20 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38618</guid>
+    </item>
+    <item>
+      <title>Collingwood 78 vs Port Adelaide 51</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-20 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38619</guid>
+    </item>
+    <item>
+      <title>Richmond 48 vs North Melbourne 73</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-21 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38620</guid>
+    </item>
+    <item>
+      <title>St Kilda 61 vs Western Bulldogs 83</title>
+      <description>Status: Scheduled | Round: 15 | Date: 2026-06-21 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38621</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 126 vs Sydney 83</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-25 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38622</guid>
+    </item>
+    <item>
+      <title>Hawthorn 0 vs Greater Western Sydney 0</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-26 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38625</guid>
+    </item>
+    <item>
+      <title>Carlton 0 vs West Coast 0</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-27 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38623</guid>
+    </item>
+    <item>
+      <title>Collingwood 0 vs Richmond 0</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-27 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38624</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 0 vs Adelaide 0</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-27 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38627</guid>
+    </item>
+    <item>
+      <title>North Melbourne 0 vs Essendon 0</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-28 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38626</guid>
+    </item>
+    <item>
+      <title>Fremantle 0 vs Gold Coast 0</title>
+      <description>Status: Scheduled | Round: 16 | Date: 2026-06-28 17:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38628</guid>
+    </item>
+    <item>
+      <title>Geelong 0 vs Brisbane Lions 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-02 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38630</guid>
+    </item>
+    <item>
+      <title>Sydney 0 vs Western Bulldogs 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-03 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38635</guid>
+    </item>
+    <item>
+      <title>West Coast 0 vs Adelaide 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-03 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38637</guid>
+    </item>
+    <item>
+      <title>Hawthorn 0 vs Melbourne 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-04 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38633</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 0 vs Fremantle 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-04 13:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38632</guid>
+    </item>
+    <item>
+      <title>Gold Coast 0 vs Collingwood 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-04 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38631</guid>
+    </item>
+    <item>
+      <title>Richmond 0 vs Carlton 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-04 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38634</guid>
+    </item>
+    <item>
+      <title>Essendon 0 vs St Kilda 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-05 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38629</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 0 vs North Melbourne 0</title>
+      <description>Status: Scheduled | Round: 17 | Date: 2026-07-05 16:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38636</guid>
+    </item>
+    <item>
+      <title>Fremantle 0 vs Sydney 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-09 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38646</guid>
+    </item>
+    <item>
+      <title>Collingwood 0 vs North Melbourne 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-10 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38640</guid>
+    </item>
+    <item>
+      <title>St Kilda 0 vs Port Adelaide 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-11 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38643</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 0 vs Geelong 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-11 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38641</guid>
+    </item>
+    <item>
+      <title>Carlton 0 vs Hawthorn 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-11 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38639</guid>
+    </item>
+    <item>
+      <title>Adelaide 0 vs Gold Coast 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-11 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38645</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 0 vs West Coast 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-12 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38644</guid>
+    </item>
+    <item>
+      <title>Melbourne 0 vs Richmond 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-12 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38642</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 0 vs Essendon 0</title>
+      <description>Status: Scheduled | Round: 18 | Date: 2026-07-12 16:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38638</guid>
+    </item>
+    <item>
+      <title>Geelong 0 vs St Kilda 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-16 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38649</guid>
+    </item>
+    <item>
+      <title>Sydney 0 vs Adelaide 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-17 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38653</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 0 vs Fremantle 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-18 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38654</guid>
+    </item>
+    <item>
+      <title>North Melbourne 0 vs Melbourne 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-18 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38651</guid>
+    </item>
+    <item>
+      <title>Collingwood 0 vs Carlton 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-18 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38647</guid>
+    </item>
+    <item>
+      <title>West Coast 0 vs Brisbane Lions 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-18 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38655</guid>
+    </item>
+    <item>
+      <title>Richmond 0 vs Hawthorn 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-19 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38652</guid>
+    </item>
+    <item>
+      <title>Gold Coast 0 vs Western Bulldogs 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-19 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38650</guid>
+    </item>
+    <item>
+      <title>Essendon 0 vs Greater Western Sydney 0</title>
+      <description>Status: Scheduled | Round: 19 | Date: 2026-07-19 16:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38648</guid>
+    </item>
+    <item>
+      <title>Adelaide 0 vs Collingwood 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-23 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38663</guid>
+    </item>
+    <item>
+      <title>Melbourne 0 vs Geelong 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-24 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38661</guid>
+    </item>
+    <item>
+      <title>Fremantle 0 vs West Coast 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-24 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38664</guid>
+    </item>
+    <item>
+      <title>Carlton 0 vs Gold Coast 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-25 13:05:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38657</guid>
+    </item>
+    <item>
+      <title>Hawthorn 0 vs Essendon 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-25 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38659</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 0 vs Sydney 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-25 16:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38658</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 0 vs Richmond 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-25 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38662</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 0 vs Port Adelaide 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-26 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38656</guid>
+    </item>
+    <item>
+      <title>North Melbourne 0 vs St Kilda 0</title>
+      <description>Status: Scheduled | Round: 20 | Date: 2026-07-26 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38660</guid>
+    </item>
+    <item>
+      <title>Collingwood 0 vs Geelong 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-07-30 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38666</guid>
+    </item>
+    <item>
+      <title>Fremantle 0 vs Western Bulldogs 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-07-31 20:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38673</guid>
+    </item>
+    <item>
+      <title>St Kilda 0 vs Sydney 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-01 13:05:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38671</guid>
+    </item>
+    <item>
+      <title>Hawthorn 0 vs North Melbourne 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-01 13:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38669</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 0 vs Greater Western Sydney 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-01 18:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38672</guid>
+    </item>
+    <item>
+      <title>Carlton 0 vs Brisbane Lions 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-01 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38665</guid>
+    </item>
+    <item>
+      <title>Richmond 0 vs West Coast 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-02 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38670</guid>
+    </item>
+    <item>
+      <title>Gold Coast 0 vs Melbourne 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-02 15:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38668</guid>
+    </item>
+    <item>
+      <title>Essendon 0 vs Adelaide 0</title>
+      <description>Status: Scheduled | Round: 21 | Date: 2026-08-02 16:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38667</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 0 vs North Melbourne 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-06 19:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38680</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 0 vs Hawthorn 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-07 19:40:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38674</guid>
+    </item>
+    <item>
+      <title>Melbourne 0 vs Fremantle 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-08 13:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38677</guid>
+    </item>
+    <item>
+      <title>Sydney 0 vs Port Adelaide 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-08 16:15:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38679</guid>
+    </item>
+    <item>
+      <title>Geelong 0 vs Essendon 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-08 16:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38675</guid>
+    </item>
+    <item>
+      <title>Adelaide 0 vs Richmond 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-08 19:35:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38681</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 0 vs Gold Coast 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-09 13:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38676</guid>
+    </item>
+    <item>
+      <title>West Coast 0 vs Collingwood 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-09 16:10:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38682</guid>
+    </item>
+    <item>
+      <title>St Kilda 0 vs Carlton 0</title>
+      <description>Status: Scheduled | Round: 22 | Date: 2026-08-09 19:20:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38678</guid>
+    </item>
+    <item>
+      <title>Brisbane Lions 0 vs Gold Coast 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38683</guid>
+    </item>
+    <item>
+      <title>Essendon 0 vs Sydney 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38684</guid>
+    </item>
+    <item>
+      <title>Greater Western Sydney 0 vs West Coast 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38685</guid>
+    </item>
+    <item>
+      <title>Hawthorn 0 vs Collingwood 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38686</guid>
+    </item>
+    <item>
+      <title>North Melbourne 0 vs Geelong 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38687</guid>
+    </item>
+    <item>
+      <title>Richmond 0 vs St Kilda 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38688</guid>
+    </item>
+    <item>
+      <title>Western Bulldogs 0 vs Carlton 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38689</guid>
+    </item>
+    <item>
+      <title>Port Adelaide 0 vs Melbourne 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 12:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38690</guid>
+    </item>
+    <item>
+      <title>Fremantle 0 vs Adelaide 0</title>
+      <description>Status: Scheduled | Round: 23 | Date: 2026-08-10 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38691</guid>
+    </item>
+    <item>
+      <title>Carlton 0 vs Fremantle 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38693</guid>
+    </item>
+    <item>
+      <title>Collingwood 0 vs Brisbane Lions 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38692</guid>
+    </item>
+    <item>
+      <title>Essendon 0 vs Port Adelaide 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38694</guid>
+    </item>
+    <item>
+      <title>Geelong 0 vs Richmond 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38695</guid>
+    </item>
+    <item>
+      <title>Melbourne 0 vs Western Bulldogs 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38696</guid>
+    </item>
+    <item>
+      <title>St Kilda 0 vs Gold Coast 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38697</guid>
+    </item>
+    <item>
+      <title>Sydney 0 vs North Melbourne 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38698</guid>
+    </item>
+    <item>
+      <title>Adelaide 0 vs Greater Western Sydney 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 12:30:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38699</guid>
+    </item>
+    <item>
+      <title>West Coast 0 vs Hawthorn 0</title>
+      <description>Status: Scheduled | Round: 24 | Date: 2026-08-17 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38700</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 25 | Date: 2026-09-04 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38710</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 25 | Date: 2026-09-04 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38711</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 25 | Date: 2026-09-04 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38712</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 25 | Date: 2026-09-04 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38713</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 26 | Date: 2026-09-11 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38714</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 26 | Date: 2026-09-11 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38715</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 27 | Date: 2026-09-18 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38716</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 27 | Date: 2026-09-18 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38717</guid>
+    </item>
+    <item>
+      <title>Home 0 vs Away 0</title>
+      <description>Status: Scheduled | Round: 28 | Date: 2026-09-25 14:00:00</description>
+      <link>https://www.afl.com.au/</link>
+      <guid>38718</guid>
+    </item>
+</channel>
+</rss>
